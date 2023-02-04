@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello? world sdfsdf");
         System.out.println("He");
         System.out.println("файлы новой ветки");
-        System.out.println("cheng3");
+        System.out.println("cheng6");
     }
 }
